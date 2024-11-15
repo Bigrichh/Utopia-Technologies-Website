@@ -33,7 +33,7 @@
                 </div>
 
                 <!-- Hero Image -->
-                <div class="w-full h-fit">
+                <div class="w-full h-fit mb-[48px]">
                     <img src="../assets/Homepage/heroimg.png" alt="Gero section Image">
                 </div>
             </div>
