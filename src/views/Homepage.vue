@@ -307,8 +307,9 @@ h1 {
 }
 
 .animated-button::before {
-    filter: blur(0.5rem);
-    opacity: 0.5;
+    filter: blur(1px);
+    opacity: 1;
+    overflow: hidden;
 }
 
 @keyframes spin {
