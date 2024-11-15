@@ -303,6 +303,7 @@ h1 {
     z-index: -1;
     border-radius: 100px;
     animation: 3s spin linear infinite;
+    overflow: hidden;
 }
 
 .animated-button::before {
