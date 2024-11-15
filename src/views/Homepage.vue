@@ -102,78 +102,91 @@
                 </p>
             </div>
             <div>
-                <div class="w-full flex gap-[12px] py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
-                    <div class="text-[#8638B5] text-[14px] font-ws">
-                        <p>01</p>
-                    </div>
-                    <div class="flex flex-col gap-[8px]">
-                        <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Software Development</p>
-                        <p class="text-[#C4C7D2] font-ws text-[16px]">Tailored solutions to fit your unique needs.</p>
-                    </div>
-                    <div>
-                        <Icon icon="mage:plus" width="24" height="24" style="color: #EAF2FF" />
-                    </div>
-                </div>
-
-                <div class="w-full flex gap-[12px] py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
-                    <div class="text-[#8638B5] text-[14px] font-ws">
-                        <p>02</p>
-                    </div>
-                    <div class="flex flex-col gap-[8px]">
-                        <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Mobile App Development</p>
-                        <p class="text-[#C4C7D2] font-ws text-[16px]">Apps that captivate and convert.</p>
+                <div class="w-full flex justify-between py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
+                    <div class="flex gap-[12px]">
+                        <div class="text-[#8638B5] text-[14px] font-ws">
+                            <p>01</p>
+                        </div>
+                        <div class="flex flex-col gap-[8px]">
+                            <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Software Development</p>
+                            <p class="text-[#C4C7D2] font-ws text-[16px]">Tailored solutions to fit your unique needs.
+                            </p>
+                        </div>
                     </div>
                     <div>
                         <Icon icon="mage:plus" width="24" height="24" style="color: #EAF2FF" />
                     </div>
                 </div>
 
-                <div class="w-full flex gap-[12px] py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
-                    <div class="text-[#8638B5] text-[14px] font-ws">
-                        <p>03</p>
-                    </div>
-                    <div class="flex flex-col gap-[8px]">
-                        <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Web Development</p>
-                        <p class="text-[#C4C7D2] font-ws text-[16px]">Stunning websites that drive results.</p>
-                    </div>
-                    <div>
-                        <Icon icon="mage:plus" width="24" height="24" style="color: #EAF2FF" />
-                    </div>
-                </div>
-
-                <div class="w-full flex gap-[12px] py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
-                    <div class="text-[#8638B5] text-[14px] font-ws">
-                        <p>04</p>
-                    </div>
-                    <div class="flex flex-col gap-[8px]">
-                        <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">UI/UX Design</p>
-                        <p class="text-[#C4C7D2] font-ws text-[16px]">User-centered design that delights.</p>
+                <div class="w-full flex justify-between py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
+                    <div class="flex gap-[12px]">
+                        <div class="text-[#8638B5] text-[14px] font-ws">
+                            <p>02</p>
+                        </div>
+                        <div class="flex flex-col gap-[8px]">
+                            <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Mobile App Development</p>
+                            <p class="text-[#C4C7D2] font-ws text-[16px]">Apps that captivate and convert.</p>
+                        </div>
                     </div>
                     <div>
                         <Icon icon="mage:plus" width="24" height="24" style="color: #EAF2FF" />
                     </div>
                 </div>
 
-                <div class="w-full flex gap-[12px] py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
-                    <div class="text-[#8638B5] text-[14px] font-ws">
-                        <p>05</p>
-                    </div>
-                    <div class="flex flex-col gap-[8px]">
-                        <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Chatbot & Machine Learning</p>
-                        <p class="text-[#C4C7D2] font-ws text-[16px]">Leveraging AI to solve complex problems.</p>
+                <div class="w-full flex justify-between py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
+                    <div class="flex gap-[12px]">
+                        <div class="text-[#8638B5] text-[14px] font-ws">
+                            <p>03</p>
+                        </div>
+                        <div class="flex flex-col gap-[8px]">
+                            <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Web Development</p>
+                            <p class="text-[#C4C7D2] font-ws text-[16px]">Stunning websites that drive results.</p>
+                        </div>
                     </div>
                     <div>
                         <Icon icon="mage:plus" width="24" height="24" style="color: #EAF2FF" />
                     </div>
                 </div>
 
-                <div class="w-full flex gap-[12px] py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
-                    <div class="text-[#8638B5] text-[14px] font-ws">
-                        <p>06</p>
+                <div class="w-full flex justify-between py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
+                    <div class="flex gap-[12px]">
+                        <div class="text-[#8638B5] text-[14px] font-ws">
+                            <p>04</p>
+                        </div>
+                        <div class="flex flex-col gap-[8px]">
+                            <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">UI/UX Design</p>
+                            <p class="text-[#C4C7D2] font-ws text-[16px]">User-centered design that delights.</p>
+                        </div>
                     </div>
-                    <div class="flex flex-col gap-[8px]">
-                        <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Cloud Solutions</p>
-                        <p class="text-[#C4C7D2] font-ws text-[16px]">Scalable and secure cloud infrastructure.</p>
+                    <div>
+                        <Icon icon="mage:plus" width="24" height="24" style="color: #EAF2FF" />
+                    </div>
+                </div>
+
+                <div class="w-full flex justify-between py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
+                    <div class="flex gap-[12px]">
+                        <div class="text-[#8638B5] text-[14px] font-ws">
+                            <p>05</p>
+                        </div>
+                        <div class="flex flex-col gap-[8px]">
+                            <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Chatbot & Machine Learning</p>
+                            <p class="text-[#C4C7D2] font-ws text-[16px]">Leveraging AI to solve complex problems.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <Icon icon="mage:plus" width="24" height="24" style="color: #EAF2FF" />
+                    </div>
+                </div>
+
+                <div class="w-full flex justify-between py-[16px] pr-[16px] border-b-[0.5px] border-b-[#415049]">
+                    <div class="flex gap-[12px]">
+                        <div class="text-[#8638B5] text-[14px] font-ws">
+                            <p>06</p>
+                        </div>
+                        <div class="flex flex-col gap-[8px]">
+                            <p class="text-[#EAF2FF] text-[18px] font-ab font-semibold">Cloud Solutions</p>
+                            <p class="text-[#C4C7D2] font-ws text-[16px]">Scalable and secure cloud infrastructure.</p>
+                        </div>
                     </div>
                     <div>
                         <Icon icon="mage:plus" width="24" height="24" style="color: #EAF2FF" />
